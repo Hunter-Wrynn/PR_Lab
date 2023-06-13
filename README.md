@@ -5,4 +5,4 @@ I have completed PCA&LDA, KNN and NN
 The code may be easy to understand    
 EX NN cannot been upload yet for its huge dataset  
 I'll upload it later after I have been well with git  
-
+report may be ugly and don't mind
